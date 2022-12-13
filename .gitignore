@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -104,6 +105,8 @@ dist
 # TernJS port file
 .tern-port
 =======
+=======
+>>>>>>> 7085aa7f642d44bffaa59434673a49ba571068d3
 # Logs
 logs
 *.log
@@ -208,4 +211,7 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
 >>>>>>> 7085aa7 (Initial commit)
+=======
+>>>>>>> 7085aa7f642d44bffaa59434673a49ba571068d3
