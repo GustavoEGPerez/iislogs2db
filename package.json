@@ -3,7 +3,7 @@
         "pg": "^8.8.0",
         "pg-hstore": "^2.3.4",
         "sequelize": "^6.27.0",
-        "sequelize-cli": "^6.5.2"
+        "sequelize-cli": "^6.6.0"
     },
     "devDependencies": {
         "@types/node": "^18.11.13"
